@@ -17,5 +17,5 @@
 | need | ned |
 | cry | cri |
 | always | alway |
-| sometime | sometim |
+| sometime | somtim |
 | think | tink |
