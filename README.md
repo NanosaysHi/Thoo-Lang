@@ -16,3 +16,4 @@
 | die | di |
 | need | ned |
 | cry | cri |
+| always | alway |
