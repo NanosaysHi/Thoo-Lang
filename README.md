@@ -18,3 +18,4 @@
 | cry | cri |
 | always | alway |
 | sometime | sometim |
+| think | tink |
