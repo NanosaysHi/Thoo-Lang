@@ -13,3 +13,6 @@
 | noob | nob |
 | make | mak |
 | gave | giv |
+| die | di |
+| need | ned |
+| cry | cri |
