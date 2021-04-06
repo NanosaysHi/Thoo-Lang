@@ -22,3 +22,4 @@
 | think | tink |
 | forgive | forgif |
 | man | men |
+| then | ten |
