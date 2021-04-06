@@ -24,3 +24,5 @@
 | man | men |
 | then | ten |
 | good | gud |
+| very | veri |
+| happy | hapi |
