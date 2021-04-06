@@ -26,3 +26,4 @@
 | good | gud |
 | very | veri |
 | happy | hapi |
+| bye | by |
