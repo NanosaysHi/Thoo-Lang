@@ -23,3 +23,4 @@
 | forgive | forgif |
 | man | men |
 | then | ten |
+| good | gud |
