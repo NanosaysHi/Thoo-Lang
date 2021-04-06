@@ -20,3 +20,5 @@
 | always | alway |
 | sometime | somtim |
 | think | tink |
+| forgive | forgif |
+| man | men |
