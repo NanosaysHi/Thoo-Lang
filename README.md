@@ -17,3 +17,4 @@
 | need | ned |
 | cry | cri |
 | always | alway |
+| sometime | sometim |
