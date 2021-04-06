@@ -12,7 +12,7 @@
 | bully | buli |
 | noob | nob |
 | make | mak |
-| gave | giv |
+| give | giv |
 | die | di |
 | need | ned |
 | cry | cri |
