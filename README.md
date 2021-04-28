@@ -6,6 +6,7 @@
 | like | lik |
 | love | lof |
 | fuc* | fak |
+| ban | ben |
 | fu**ing | fakking |
 | mf | matterfakker |
 | motherf****** | matterfakking |
