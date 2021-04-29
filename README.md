@@ -7,6 +7,7 @@
 | love | lof |
 | fuc* | fak |
 | fu**ing | fakking |
+| thanks | tank |
 | mf | matterfakker |
 | motherf****** | matterfakking |
 | lie | li |
