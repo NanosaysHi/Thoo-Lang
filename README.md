@@ -29,3 +29,4 @@
 | happy | hapi |
 | bye | by |
 | Home | hom |
+| tell | tel |
