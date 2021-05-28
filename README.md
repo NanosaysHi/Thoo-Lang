@@ -30,3 +30,5 @@
 | bye | by |
 | Home | hom |
 | tell | tel |
+| rocket league | roket leak |
+| laugh | laf |
