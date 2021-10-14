@@ -22,7 +22,7 @@
 | sometime | somtim |
 | think | tink |
 | forgive | forgif |
-| man | men |
+| mean | men |
 | then | ten |
 | good | gud |
 | very | veri |
